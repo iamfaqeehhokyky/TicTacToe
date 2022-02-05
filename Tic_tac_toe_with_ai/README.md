@@ -1,7 +1,6 @@
 # Tic-Tac-Toe-AI
 
-[![Run on Repl.it](https://repl.it/badge/github/tusharnankani/Tic-Tac-Toe-AI)](https://repl.it/github/tusharnankani/Tic-Tac-Toe-AI)
-[![Run on Repl.it](https://replit.com/@iamfaqeehhokyky/Tic-Tac-Toe-AI#.replit)
+[![Run on Repl.it](https://replit.com/badge/github/@iamfaqeehhokyky/Tic-Tac-Toe-AI)](https://replit.com/github/@iamfaqeehhokyky/Tic-Tac-Toe-AI)
 
 Adding a simple AI to the Tic-Tac-Toe Game:
 
