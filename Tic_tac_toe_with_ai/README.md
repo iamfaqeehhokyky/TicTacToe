@@ -36,9 +36,3 @@ The positions of this 3 x 3 board is same as the **keypad on the right side of y
 
 #### You just have to input the position(1-9).
 ![1](https://user-images.githubusercontent.com/61280281/81096720-799abc80-8f24-11ea-97cc-de65614cbd92.png)
-  
-  
-# *Author*:
-- [Tushar Nankani](https://github.com/tusharnankani)  (tusharnankani, tusharnankani3@gmail.com)
-- [Github](https://www.github.com/tusharnankani)
-- [LinkedIn](https://www.linkedin.com/in/tusharnankani)
